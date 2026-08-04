@@ -4,3 +4,5 @@ def detect():
 
 if __name__ == "__main__":
     print(detect())
+
+111
